@@ -8,8 +8,8 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.1"
-   width="331.13885"
-   height="183.84776"
+   width="331.14001"
+   height="331.14001"
    id="svg2">
   <defs
      id="defs4" />
@@ -26,19 +26,23 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-33.964493,-253.33151)"
+     transform="translate(-33.964493,-106.03927)"
      id="layer1">
-    <path
-       d="m 95.964493,253.33151 50.492427,0 -62,91.92389 62,91.92388 -50.492427,0 -62,-91.92388 z"
-       id="rect2985"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       d="m 303.10336,253.33151 -50.49243,0 62.00001,91.92389 -62.00001,91.92388 50.49243,0 62,-91.92388 z"
-       id="rect2985-5"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
-    <path
-       d="m 256.87484,283.29063 21.21321,21.21321 -113.13708,113.13708 -56.56855,-56.56854 21.2132,-21.21321 35.35534,35.35534 z"
-       id="rect2985-4"
-       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <g
+       transform="translate(0,-73.646118)"
+       id="g2986">
+      <path
+         d="m 95.964493,253.33151 50.492427,0 -62,91.92389 62,91.92388 -50.492427,0 -62,-91.92388 z"
+         id="rect2985"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         d="m 303.10336,253.33151 -50.49243,0 62.00001,91.92389 -62.00001,91.92388 50.49243,0 62,-91.92388 z"
+         id="rect2985-5"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         d="m 256.87484,283.29063 21.21321,21.21321 -113.13708,113.13708 -56.56855,-56.56854 21.2132,-21.21321 35.35534,35.35534 z"
+         id="rect2985-4"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
   </g>
 </svg>
